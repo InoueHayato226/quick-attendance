@@ -30,6 +30,10 @@
 2. 下のQRコードをスキャン
 3. 「Expo Goで開く」をタップ
 
+<p align="center">
+  <img src="./assets/images/qr-code.png" alt="QRコード" width="200">
+</p>
+
 #### 方法B: URLから開く
 
 1. iPhoneのブラウザで以下のURLを開く：
@@ -59,6 +63,10 @@
 1. Expo Goアプリを開く
 2. 「**Scan QR code**」をタップ
 3. 下のQRコードをスキャン
+
+<p align="center">
+  <img src="./assets/images/qr-code.png" alt="QRコード" width="200">
+</p>
 
 ##### URLから開く
 
